@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MOHAMMED SALAUDDIN</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A data Analyst</h3>
 <img align="right" alt="coding" width="400" src=https://www.pinterest.com/pin/geometric-animations-171210-gif-processing-creative-coding-art-everyday-geometry-httpift--414190496973500924/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salauddin06&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin06" /> </p>
