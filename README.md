@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning *React Native,Python,mern stack, ML*
+🌱 I’m currently learning *ML ,Python,mern stack*
 
 💬 Ask me about *Python R-language*
 
