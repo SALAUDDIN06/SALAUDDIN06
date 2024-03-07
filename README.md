@@ -1,6 +1,6 @@
 <div align="right"
 
-![GitHub followers](https://img.shields.io/github/followers/Naveenalla3000?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
+![GitHub followers](https://img.shields.io/github/followers/SALAUDDIN06?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
 </div>
 <h1 align="center">
