@@ -6,15 +6,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salauddin!;" />
 </h1>
 
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 
 <div align="center">
 
-🌱 I’m currently learning *ML ,Python,mern stack*
+🌱 I’m currently learning *ML ,Python,gen Ai*
 
-💬 Ask me about *Python R-language*
+💬 Ask me about *Data Science*
 
-📫 How to reach me *salauddinmohammed902@gmail.com*
+📫 How to reach me *mohammadsallu2004@gmail.com*
 
 
  </div>
@@ -35,7 +35,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,css&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=Bootstrap,tailwind,css&perline=6)](https://skillicons.dev)
 
   </div>
 
