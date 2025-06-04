@@ -20,39 +20,39 @@
 
 ### 🧠 Languages & Technologies
 
-#### 💻 Programming
+####  Programming
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </div>
 
-#### 🎨 Frontend
+####  Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </div>
 
-#### 🛠 Backend
+####  Backend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </div>
 
-#### 🗄️ Database
+####  Database
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
-#### ☁️ Cloud & Hosting
+####  Cloud & Hosting
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,aws" />
+  <img src="https://skillicons.dev/icons?i=netlify,aws,render" />
 </div>
 
-#### 🔧 CI/CD & VCS
+####  CI/CD & VCS
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </div>
 
-#### 🛠 Tools & Editors
+####  Tools & Editors
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,vim,idea,docker,postman,figma,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,Jupyter,idea,docker,postman,figma,linux,bash" />
 </div>
 
 ---
