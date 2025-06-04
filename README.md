@@ -61,5 +61,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salauddin06&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salauddin06&theme=default" alt="GitHub Streak" />
 </div>
